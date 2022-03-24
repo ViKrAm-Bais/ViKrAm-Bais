@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vikram Bais
+### Hi there 👋,I'm Vikram Bais
 
 #### Final year Student pursuing B.tech in Computer Science and Engineering
 
