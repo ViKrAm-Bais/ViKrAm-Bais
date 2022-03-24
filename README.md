@@ -2,7 +2,11 @@
 
 #### Final year Student pursuing B.tech in Computer Science and Engineering
 
-Skills: C++, Core Java, JavaScript, ReactJs, Nodejs, Express, Python
+## Skills: 
+- ©️ C++
+- ☕ Core Java
+- 💻 ReactJs, Nodejs, Express, JavaScript
+- 🐍 Python
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
