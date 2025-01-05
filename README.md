@@ -1,4 +1,4 @@
-# Vikram Shishupalsingh Bais
+# Vikram Bais
 
 ## About Me
 I am a Software Development Engineer with expertise in designing and implementing scalable backend systems. With over two years of experience, I specialize in Microservices Architecture, REST APIs, and Database Optimization. 
