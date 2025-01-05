@@ -1,13 +1,10 @@
-# Hi there 👋,I'm Vikram Bais
-
-#### Final year Student pursuing B.tech in Computer Science and Engineering
+# Hi there 👋,I'm Vikram
 
 ---
 ### Skills
-- ©️ C++
-- ☕ Core Java
-- 💻 ReactJs, Nodejs, Express, JavaScript
-- 🐍 Python
+- **Programming Languages:** Python, Go, Java, SQL, C++
+- **Tools/Frameworks:** Django, Django Rest Framework, Kafka, Git, Redis
+- **Databases/Datastores:** MySQL, PostgreSQL, Elasticsearch, Redis
 
 ---
 ### Achievements
